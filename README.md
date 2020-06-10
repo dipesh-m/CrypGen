@@ -1,18 +1,20 @@
 # CrypGen
 
+[Download CrypGen](https://github.com/dipesh-m/CrypGen/releases)
+
 CrypGen is a random password generator, password strength checker, and a message-encryptor accumulated in one application.
 
 You can use CrypGen to:-
 
 1.) Generate multiple strong passwords containing random characters at once.
 
-2.) Check how secure your password is, accomplished using the [zxcvbn](https://github.com/dropbox/zxcvbn) password cracker estimator by DropBox.
+2.) Check how secure your password is, accomplished using the [zxcvbn](https://github.com/dropbox/zxcvbn) password cracker estimator by Dropbox.
 
 3.) Encrypt a message using the One-Time-Pad(OTP) encryption technique.
 
 # How to run:-
 
-Option 1.) You can download CrypGen directly from the release and run the application CrypGen.exe inside the 'build' folder.
+Option 1.) You can CrypGen directly from the release and run the application CrypGen.exe inside the 'build' folder. -> [Download CrypGen](https://github.com/dipesh-m/CrypGen/releases)
 
 Option 2.) You can also run CrypGen using python. First, you will need to install some external modules that don't come pre-installed with python. These modules are:-
 - zxcvbn
@@ -54,17 +56,17 @@ This folder will be automatically created (if it doesn't exist) on Encrypting a 
 
 - Generating Random Passwords
 
-![](build/img/example1.jpg)
+![](img/example1.jpg)
 
 
 - Checking Password Strength
 
-![](build/img/example2.jpg)
+![](img/example2.jpg)
 
 
 - Encrypting a Message
 
-![](build/img/example3.jpg)
+![](img/example3.jpg)
 
 
 # Background
