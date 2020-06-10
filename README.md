@@ -14,7 +14,7 @@ You can use CrypGen to:-
 
 # How to run:-
 
-Option 1.) You can CrypGen directly from the release and run the application CrypGen.exe inside the 'build' folder. -> [Download CrypGen](https://github.com/dipesh-m/CrypGen/releases)
+Option 1.) You can run CrypGen directly from the release and run the application CrypGen.exe inside the 'build' folder. -> [Download CrypGen](https://github.com/dipesh-m/CrypGen/releases)
 
 Option 2.) You can also run CrypGen using python. First, you will need to install some external modules that don't come pre-installed with python. These modules are:-
 - zxcvbn
